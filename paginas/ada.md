@@ -10,13 +10,20 @@ Assista
     Seu navegador não suporta a reprodução do vídeo.
 </video>
 
+[dive](https://drive.google.com/drive/u/2/folders/1fWs6BaldJWwa51_CsUL2oRJ9WAiPYSY-)
 
-<video width="600" controls>
-    <source src="https://drive.google.com/file/d/1G9-xjpGXnB_PE8KFIT84UzNSPaX7yGaY/view?" type="video/mp4">
-    Seu navegador não suporta a reprodução do vídeo.
-</video>
+<html>
+<body>
+  
+  <iframe src="https://drive.google.com/drive/u/2/folders/1fWs6BaldJWwa51_CsUL2oRJ9WAiPYSY-" ></iframe>
+  
+  <!--aloow full screen add tag -->
+  
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
-[drive](https://drive.google.com/file/d/1G9-xjpGXnB_PE8KFIT84UzNSPaX7yGaY/view?)
+</body>
+</html>
+
 
 Assista
 [Assista ao vídeo](https://github.com/OliveiraVictor2/Minicurso_RNAs/raw/refs/heads/main/videos/video.mp4)
