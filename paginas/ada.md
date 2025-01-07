@@ -5,7 +5,7 @@ layout : default
 
 RNA
 
-<video controls>
-    <source src="assets/videos/video.mkv" type="video/webm">
+<video width="600" controls>
+    <source src="./videos/video.mp4" type="video/mp4">
     Seu navegador não suporta a reprodução do vídeo.
 </video>
