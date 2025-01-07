@@ -19,9 +19,9 @@ Os assuntos abordados estão divididos por seções em que estão organizadas as
 ## Perceptron Multicamadas
 [Perceptron Multicamadas](./paginas/pmc.md)
 
-## Dissertação 
+## Downloads
 
-[Download](./pdf/dissertação.pdf)
+[Download](./downloads/downloads.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
