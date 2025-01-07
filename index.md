@@ -13,19 +13,19 @@ Os assuntos abordados estão divididos por seções em que estão organizadas as
 ## Neurônio de McCulloch-Pitts
 
 ## Perceptron
-[Perceptron](./per.md)
+[Perceptron](./paginas/per.md)
 ## Adaline
-[Adaline](./ada.md)
+[Adaline](./paginas/ada.md)
 ## Perceptron Multicamadas
-[Perceptron Multicamadas](pmc.md)
+[Perceptron Multicamadas](./paginas/pmc.md)
 
 ## Dissertação 
 
-[Download](./dissertação.pdf)
+[Download](./pdf/dissertação.pdf)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
