@@ -1,9 +1,8 @@
----
-layout : default
----
+
 # Adaline
 
 RNA
+
 Assista
 <video width="600" controls>
     <source src="./videos/video.mp4" type="video/mp4">
