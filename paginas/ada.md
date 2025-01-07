@@ -1,4 +1,6 @@
-
+---
+driveId: 1G9-xjpGXnB_PE8KFIT84UzNSPaX7yGaY
+---
 
 # Adaline
 
@@ -11,7 +13,7 @@ Assista
 </video>
 
 
-
+{% include googleDrivePlayer.html id=page.driveId  %}
 
 
 # Página inicial
