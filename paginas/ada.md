@@ -5,7 +5,7 @@ RNA
 
 Assista
 <video width="600" controls>
-    <source src="/videos/video.mp4" type="video/mp4">
+    <source src="/videos/Adalin - A3_Intro.mkv" type="video/webm">
     Seu navegador não suporta a reprodução do vídeo.
 </video>
 
