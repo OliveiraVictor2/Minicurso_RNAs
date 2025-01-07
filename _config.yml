@@ -1,5 +1,5 @@
-title: Introdução às RNAs
-description: Minicurso sobre Redes Neurais Artificiais
-show_downloads: true
+title: Minicurso sobre Redes Neurais Artificiais
+#description: 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
