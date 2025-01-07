@@ -12,12 +12,9 @@ Assista
 
 [dive](https://drive.google.com/drive/u/2/folders/1fWs6BaldJWwa51_CsUL2oRJ9WAiPYSY-)
 
-<html>
-<body>
+
 <iframe src="https://drive.google.com/drive/u/2/folders/1fWs6BaldJWwa51_CsUL2oRJ9WAiPYSY-" ></iframe>
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
-</body>
-</html>
+
 
 <video width="600" controls>
     <source src="https://drive.google.com/drive/u/2/folders/1fWs6BaldJWwa51_CsUL2oRJ9WAiPYSY-">
