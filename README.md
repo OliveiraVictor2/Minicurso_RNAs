@@ -1,6 +1,4 @@
----
-layout: default
----
+
 # Redes Neurais Artificiais - Um Minicurso
 Minicurso sobre Redes Neurais Artificiais Composto de vídeos, arquivo de texto e cadernos Jupyter/Colab.
 
@@ -21,4 +19,4 @@ Os assuntos abordados estão divididos por seções em que estão organizadas as
 
 ## Downloads
 
-[Download](./downloads/downloads.md)
+[Downloads](./downloads/downloads.md)
