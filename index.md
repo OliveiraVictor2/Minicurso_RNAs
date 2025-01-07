@@ -15,7 +15,7 @@ Os assuntos abordados estão divididos por seções em que estão organizadas as
 ## Perceptron
 [Perceptron](./paginas/per.md)
 ## Adaline
-[Adaline](./paginas/ada.html)
+[Adaline](./paginas/ada.md)
 ## Perceptron Multicamadas
 [Perceptron Multicamadas](./paginas/pmc.md)
 
