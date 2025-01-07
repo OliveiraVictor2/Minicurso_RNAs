@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Redes Neurais Artificiais - Um Minicurso
+# Minicurso sobre Redes Neurais Artificiais
 Minicurso sobre Redes Neurais Artificiais Composto de vídeos, arquivo de texto e cadernos Jupyter/Colab.
 
 Este minicurso nasceu como um projeto de Produto Educacional elaborado para satisfazer um critério de conclusão de curso do meu mestrado pelo PROFMAT.
