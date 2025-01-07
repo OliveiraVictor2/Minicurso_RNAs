@@ -14,4 +14,4 @@ Assista
 
 
 Assista
-[Assista ao vídeo](Minicurso_RNAs/videos/video.mp4)
+[Assista ao vídeo](/Minicurso_RNAs/videos/video.mp4)
