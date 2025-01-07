@@ -17,5 +17,5 @@ Assista
 Assista
 [Assista ao vídeo](https://github.com/OliveiraVictor2/Minicurso_RNAs/raw/refs/heads/main/videos/video.mp4)
 
-# Retornar à página inicial
+# Página inicial
 [Página Inicial](../index.md)
