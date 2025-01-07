@@ -4,7 +4,7 @@ layout: default
 # Downloads
 
 ## Arquivo de texto da dissertação
-[link](./pdf/dissertação.pdf)
+[link](../pdf/dissertação.pdf)
 
 <object data="../pdf/dissertação.pdf" width="600" height="800" type='application/pdf'/></object>
 
