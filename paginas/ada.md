@@ -17,4 +17,4 @@ Assista
 
 
 # Página inicial
-[Página Inicial](../index.md)
+[Página Inicial](../index)
