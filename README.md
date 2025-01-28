@@ -18,7 +18,7 @@ Adicionalmente, preparamos uma página de downloads para disponibilizar todo est
 
 ## Neurônio de McCulloch-Pitts
 
-[Neurônio de McCulloch e Pitts](/paginas/mep)
+[Neurônio de McCulloch e Pitts](/paginas/mep.md)
 
 ---
 
