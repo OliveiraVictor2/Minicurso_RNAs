@@ -51,7 +51,7 @@ Implementação do Adaline em linguagem de  programação Python e execução do
 
 
 **Próximo Capítulo:**
-[Perceptron Multicamadas](/paginas/pmc)
+[Perceptron Multicamadas](../paginas/pmc)
 
 ---
 #### Página Inicial
