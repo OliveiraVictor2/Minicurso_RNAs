@@ -1,25 +1,47 @@
 ---
 layout: default
 ---
-# Minicurso sobre Redes Neurais Artificiais
-Minicurso sobre Redes Neurais Artificiais Composto de vídeos, arquivo de texto e cadernos Jupyter/Colab.
 
-Este minicurso nasceu como um projeto de Produto Educacional elaborado para satisfazer um critério de conclusão de curso do meu mestrado pelo PROFMAT.
+# Apresentação
+Minicurso sobre Redes Neurais Artificiais composto de videoaulas, arquivo de texto e cadernos no Jupyter Notebook.
 
-Este minicurso aborda temas do Neurônio de McCulloch-Pitts até o algoritmo de _backpropagation_ de uma RNA Perceptron Multicamadas, passando primeiro pelo Perceptron simples e pelo Adaline.
+Este minicurso nasceu como um projeto de Produto Educacional elaborado para satisfazer um critério de conclusão de curso do mestrado que cursei pelo PROFMAT no Instituto Federal de São Paulo, campus São Paulo.
 
-Os assuntos abordados estão divididos por seções em que estão organizadas as páginas referentes ao assunto nos vídeos, na dissertação e os links para os cadernos do Jupyter para download ou execução online. 
+Este minicurso aborda temas do Neurônio de McCulloch-Pitts, Perceptron, Adaline e Perceptron Multicamadas de forma introdutória. até o algoritmo de _backpropagation_ de uma RNA Perceptron Multicamadas, passando primeiro pelo Perceptron simples e pelo Adaline.
 
-## Neurônio de McCulloch-Pitts
+Os assuntos abordados estão localizados em suas páginas, acessíveis por meio dos links abaixo, em que estão organizados os os vídeos e os links para os cadernos do Jupyter para download ou execução online. 
 
-## Perceptron
-[Perceptron](./paginas/per.md)
-## Adaline
-[Adaline](./paginas/ada)
-## Perceptron Multicamadas
-[Perceptron Multicamadas](./paginas/pmc.md)
+Adicionalmente, preparamos uma página de downloads para disponibilizar todo este material.
+
+**Vídeo introdutório**
+
+<iframe src="https://drive.google.com/file/d/1pqOgKQh7MFR3lfiCUthUn9KhnoTUSG40/preview" width="100%" height="340" allow="autoplay" allow="fullscreen"></iframe>
+
+---
+
+## 1. Neurônio de McCulloch-Pitts
+
+[Neurônio de McCulloch e Pitts](/paginas/mep)
+
+---
+
+## 2. Perceptron
+[Perceptron](/paginas/per)
+
+---
+
+## 3. Adaline
+[Adaline](/paginas/ada)
+
+---
+
+## 4. Perceptron Multicamadas
+[Perceptron Multicamadas](/paginas/pmc)
+
+---
 
 ## Downloads
 
-[Download](./downloads/downloads.md)
+[Downloads](/downloads/downloads)
 
+---

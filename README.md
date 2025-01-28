@@ -1,22 +1,42 @@
 
-# Redes Neurais Artificiais - Um Minicurso
-Minicurso sobre Redes Neurais Artificiais Composto de vídeos, arquivo de texto e cadernos Jupyter/Colab.
+# Apresentação
+Minicurso sobre Redes Neurais Artificiais composto de videoaulas, arquivo de texto e cadernos no Jupyter Notebook.
 
-Este minicurso nasceu como um projeto de Produto Educacional elaborado para satisfazer um critério de conclusão de curso do meu mestrado pelo PROFMAT.
+Este minicurso nasceu como um projeto de Produto Educacional elaborado para satisfazer um critério de conclusão de curso do mestrado que cursei pelo PROFMAT no Instituto Federal de São Paulo, campus São Paulo.
 
-Este minicurso aborda temas do Neurônio de McCulloch-Pitts até o algoritmo de _backpropagation_ de uma RNA Perceptron Multicamadas, passando primeiro pelo Perceptron simples e pelo Adaline.
+Este minicurso aborda temas do Neurônio de McCulloch-Pitts, Perceptron, Adaline e Perceptron Multicamadas de forma introdutória. até o algoritmo de _backpropagation_ de uma RNA Perceptron Multicamadas, passando primeiro pelo Perceptron simples e pelo Adaline.
 
-Os assuntos abordados estão divididos por seções em que estão organizadas as páginas referentes ao assunto nos vídeos, na dissertação e os links para os cadernos do Jupyter para download ou execução online. 
+Os assuntos abordados estão localizados em suas páginas, acessíveis por meio dos links abaixo, em que estão organizados os os vídeos e os links para os cadernos do Jupyter para download ou execução online. 
+
+Adicionalmente, preparamos uma página de downloads para disponibilizar todo este material.
+
+**Vídeo introdutório**
+
+<iframe src="https://drive.google.com/file/d/1pqOgKQh7MFR3lfiCUthUn9KhnoTUSG40/preview" width="600" height="340" allow="autoplay" allow="fullscreen"></iframe>
+
+---
 
 ## Neurônio de McCulloch-Pitts
 
+[Neurônio de McCulloch e Pitts](/paginas/mep)
+
+---
+
 ## Perceptron
-[Perceptron](./paginas/per.md)
+[Perceptron](/paginas/per)
+
+---
+
 ## Adaline
-[Adaline](./paginas/ada.md)
+[Adaline](/paginas/ada)
+
+---
+
 ## Perceptron Multicamadas
-[Perceptron Multicamadas](./paginas/pmc.md)
+[Perceptron Multicamadas](/paginas/pmc)
+
+---
 
 ## Downloads
 
-[Downloads](./downloads/downloads.md)
+[Downloads](/downloads/downloads)
