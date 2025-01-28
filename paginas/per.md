@@ -54,7 +54,12 @@ Neste vídeo é realizada uma pequena revisão sobre sistemas lineares para que 
 
 [Percetron - A3.ipynb](https://drive.google.com/file/d/1npyEy2r9Vi1l8l2XlVDoFB1mLasGVMxf/view?usp=drive_link)
 
+---
 
+## Capítulo 2 
+
+[AGUARDANDO TEXTO FINAL DA DISSERTAÇÃO]
+<iframe src="../pdf/dissertação.pdf" width="100%" height="600px"></iframe> 
 
 ---
 
