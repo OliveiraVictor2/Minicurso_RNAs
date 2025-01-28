@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Descobrindo Redes Neurais Artificiais
+# Minicurso: Descobrindo Redes Neurais Artificiais
 
-Minicurso sobre os Primeiros Modelos de Neurônios Artificiais: Perceptron, Adaline e Perceptron Multicamadas
+Um minicurso sobre os Primeiros Modelos de Neurônios Artificiais: Perceptron, Adaline e Perceptron Multicamadas.
 
 ## Apresentação
 
