@@ -20,23 +20,23 @@ Os assuntos abordados estão localizados em suas páginas, acessíveis por meio 
 
 ---
 
-## Neurônio de McCulloch-Pitts
+## 1. Neurônio de McCulloch-Pitts
 
 [Neurônio de McCulloch e Pitts](./paginas/mep.md)
 
 ---
 
-## Perceptron
+## 2. Perceptron
 [Perceptron](/paginas/per.md)
 
 ---
 
-## Adaline
+## 3. Adaline
 [Adaline](paginas/ada)
 
 ---
 
-## Perceptron Multicamadas
+## 4. Perceptron Multicamadas
 [Perceptron Multicamadas](paginas/pmc.md)
 
 ---
