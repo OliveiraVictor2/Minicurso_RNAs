@@ -42,6 +42,6 @@ Adicionalmente, preparamos uma página de downloads para disponibilizar todo est
 
 ## Downloads
 
-[Downloads](/downloads/downloads)
+[Downloads](./downloads/downloads.md)
 
 ---
