@@ -14,7 +14,7 @@ São abordados o Neurônio de McCulloch-Pitts, o Perceptron, o Adaline e o Perce
 
 Os assuntos abordados estão localizados em suas páginas, acessíveis por meio dos links abaixo, em que estão organizados os os vídeos e os links para os cadernos do Jupyter para download ou execução online. 
 
-**Vídeo introdutório**
+**Vídeo de apresentação**
 
 <iframe src="https://drive.google.com/file/d/1pqOgKQh7MFR3lfiCUthUn9KhnoTUSG40/preview" width="100%" height="340" allow="autoplay" allow="fullscreen"></iframe>
 
