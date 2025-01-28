@@ -2,7 +2,11 @@
 layout: default
 ---
 
-# Apresentação
+# Descobrindo Redes Neurais Artificiais
+
+Minicurso sobre os Primeiros Modelos de Neurônios Artificiais: Perceptron, Adaline e Perceptron Multicamadas
+
+## Apresentação
 Minicurso sobre Redes Neurais Artificiais composto de videoaulas, arquivo de texto e cadernos no Jupyter Notebook.
 
 Este minicurso nasceu como um projeto de Produto Educacional elaborado para satisfazer um critério de conclusão de curso do mestrado que cursei pelo PROFMAT no Instituto Federal de São Paulo, campus São Paulo.
