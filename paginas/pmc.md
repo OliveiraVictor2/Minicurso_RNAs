@@ -39,6 +39,13 @@ Implementação do PMC em Python e utilização em exemplos já apresentados no 
 
 ---
 
+## Capítulo 4 
+
+[AGUARDANDO TEXTO FINAL DA DISSERTAÇÃO]
+<iframe src="../pdf/dissertação.pdf" width="100%" height="600px"></iframe> 
+
+---
+
 
 **Próximo Capítulo:**
 [Downloads](../downloads/downloads.md)
