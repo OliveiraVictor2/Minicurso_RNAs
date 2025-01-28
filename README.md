@@ -18,22 +18,22 @@ Adicionalmente, preparamos uma página de downloads para disponibilizar todo est
 
 ## Neurônio de McCulloch-Pitts
 
-[Neurônio de McCulloch e Pitts](/paginas/mep.md)
+[Neurônio de McCulloch e Pitts](./paginas/mep.md)
 
 ---
 
 ## Perceptron
-[Perceptron](/paginas/per)
+[Perceptron](/paginas/per.md)
 
 ---
 
 ## Adaline
-[Adaline](/paginas/ada)
+[Adaline](paginas/ada)
 
 ---
 
 ## Perceptron Multicamadas
-[Perceptron Multicamadas](/paginas/pmc)
+[Perceptron Multicamadas](paginas/pmc.md)
 
 ---
 
