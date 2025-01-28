@@ -19,24 +19,24 @@ Adicionalmente, preparamos uma página de downloads para disponibilizar todo est
 
 ---
 
-## 1. Neurônio de McCulloch-Pitts
+## Neurônio de McCulloch-Pitts
 
 [Neurônio de McCulloch e Pitts](./paginas/mep.md)
 
 ---
 
-## 2. Perceptron
-[Perceptron](/paginas/per)
+## Perceptron
+[Perceptron](/paginas/per.md)
 
 ---
 
-## 3. Adaline
-[Adaline](/paginas/ada)
+## Adaline
+[Adaline](paginas/ada)
 
 ---
 
-## 4. Perceptron Multicamadas
-[Perceptron Multicamadas](/paginas/pmc)
+## Perceptron Multicamadas
+[Perceptron Multicamadas](paginas/pmc.md)
 
 ---
 
