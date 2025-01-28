@@ -41,7 +41,7 @@ Implementação do PMC em Python e utilização em exemplos já apresentados no 
 
 
 **Próximo Capítulo:**
-[Downloads](/paginas/downloads)
+[Downloads](../paginas/downloads)
 
 ---
 
