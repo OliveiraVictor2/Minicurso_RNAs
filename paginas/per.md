@@ -59,7 +59,7 @@ Neste vídeo é realizada uma pequena revisão sobre sistemas lineares para que 
 ---
 
 **Próximo Capítulo:**
-[Adaline](/paginas/ada)
+[Adaline](../paginas/ada)
 
 ---
 #### Página inicial
