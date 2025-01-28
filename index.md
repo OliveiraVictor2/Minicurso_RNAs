@@ -8,13 +8,11 @@ Minicurso sobre os Primeiros Modelos de Neurônios Artificiais: Perceptron, Adal
 
 ## Apresentação
 
-Este minicurso nasceu como um projeto de Produto Educacional elaborado para satisfazer um critério de conclusão de curso do mestrado que cursei pelo PROFMAT no Instituto Federal de São Paulo, campus São Paulo.
+Este minicurso foi desenvolvido como um projeto de Produto Educacional elaborado para satisfazer um critério de conclusão do mestrado que cursei pelo PROFMAT no Instituto Federal de São Paulo, campus São Paulo.
 
-Este minicurso aborda temas do Neurônio de McCulloch-Pitts, Perceptron, Adaline e Perceptron Multicamadas de forma introdutória. até o algoritmo de _backpropagation_ de uma RNA Perceptron Multicamadas, passando primeiro pelo Perceptron simples e pelo Adaline.
+São abordados o Neurônio de McCulloch-Pitts, o Perceptron, o Adaline e o Perceptron Multicamadas de forma introdutória. 
 
 Os assuntos abordados estão localizados em suas páginas, acessíveis por meio dos links abaixo, em que estão organizados os os vídeos e os links para os cadernos do Jupyter para download ou execução online. 
-
-Adicionalmente, preparamos uma página de downloads para disponibilizar todo este material.
 
 **Vídeo introdutório**
 
