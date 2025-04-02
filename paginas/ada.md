@@ -52,7 +52,7 @@ Implementação do Adaline em linguagem de  programação Python e execução do
 ## Capítulo 3 
 
 [AGUARDANDO TEXTO FINAL DA DISSERTAÇÃO]
-<iframe src="../pdf/dissertação.pdf" width="100%" height="600px"></iframe> 
+<iframe src="../pdf//pdf/0_Trabalho_escrito_ada.pdf" width="100%" height="600px"></iframe> 
 
 ---
 
