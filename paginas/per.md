@@ -59,7 +59,7 @@ Neste vídeo é realizada uma pequena revisão sobre sistemas lineares para que 
 ## Capítulo 2 
 
 [AGUARDANDO TEXTO FINAL DA DISSERTAÇÃO]
-<iframe src="../pdf/dissertação.pdf" width="100%" height="600px"></iframe> 
+<iframe src="../pdf/0_Trabalho_escrito_per.pdf" width="100%" height="600px"></iframe> 
 
 ---
 
