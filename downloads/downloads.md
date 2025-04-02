@@ -5,7 +5,7 @@ layout: default
 ---
 
 ## Arquivo de texto da dissertação
-[link](../pdf/dissertação.pdf)
+[link](../pdf/Dissertação_completa.pdf)
 
 ---
 ## Arquivos dos Vídeos
