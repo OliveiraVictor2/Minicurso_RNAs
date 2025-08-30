@@ -1,5 +1,6 @@
 title: Minicurso sobre Redes Neurais Artificiais
 description: Descobrindo o Perceptron, o Adaline e o Perceptron Multicamadas
-show_downloads: false
-google_analytics: G-PF3J3ZPR75
+show_downloads: true
+#google_analytics: G-PF3J3ZPR75
 theme: jekyll-theme-leap-day
+
