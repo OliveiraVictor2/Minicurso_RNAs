@@ -17,5 +17,11 @@ layout: default
 
 ---
 
+## Arquivos utilizados na SEDCITEC - 2025
+
+[Caderno](.downloads/)
+
+[Apresentação](./
+
 #### Página Inicial
 [Retornar](../index) 
