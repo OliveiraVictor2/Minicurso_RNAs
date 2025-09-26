@@ -6,6 +6,7 @@ layout: default
 
 ## Arquivo de texto da dissertação
 [Link(PROFMAT)](https://sca.profmat-sbm.org.br/busca_tcc_det.php?id=171058078&id1=8086)
+
 [Link](../pdf/Dissertação_completa.pdf)
 
 ---
